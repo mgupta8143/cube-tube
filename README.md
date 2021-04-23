@@ -17,3 +17,6 @@ You can either use normal controls or tilt controls to move your character left 
 
 ## Are you going to update the game?
 Most likely, no. The game was a project meant for me to learn, and I want to move on to bigger and better projects. I think the game is enjoyable as it is, and I made the game after watching Brackey's tutorial series on Unity games. 
+
+## Should I download it?
+Of course! Many people who have downloaded it have loved it and love some of the "quirks" the game offers!
