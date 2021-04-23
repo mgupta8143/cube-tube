@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: d1c279a051c5f4749ad593ba0974b24b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LowLeftPrefab: {instanceID: 0}
+  - LowMiddlePrefab: {instanceID: 0}
+  - LowRightPrefab: {instanceID: 0}
+  - restart: {instanceID: 0}
+  - player: {instanceID: 0}
+  - p: {instanceID: 0}
+  - white: {instanceID: 0}
+  - red: {instanceID: 0}
+  - blue: {instanceID: 0}
+  - yellow: {instanceID: 0}
+  - green: {instanceID: 0}
+  - purple: {instanceID: 0}
+  - gold: {instanceID: 0}
+  - silver: {instanceID: 0}
+  - bronze: {instanceID: 0}
+  - orange: {instanceID: 0}
+  - pink: {instanceID: 0}
+  - black: {instanceID: 0}
+  - gray: {instanceID: 0}
+  - cyan: {instanceID: 0}
+  - brown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

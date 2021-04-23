@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: d77c05a9e891c894dbfb8138ec0fcd37
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Air_motor_left
+    100002: Air_motor_right
+    100004: Body
+    100006: Cone
+    100008: Cone_1
+    100010: Cube
+    100012: Cube_0
+    100014: Cube_1
+    100016: Cube_1_2
+    100018: Cube_1_3
+    100020: Cube_2
+    100022: Cube_2_2
+    100024: Cube_2_3
+    100026: Cube_2_4
+    100028: Cube_3
+    100030: Cylinder_1
+    100032: Cylinder_1_2
+    100034: Cylinder_1_3
+    100036: //RootNode
+    100038: Propeller
+    100040: Wheel
+    100042: Wheel_1
+    100044: Wheel_2
+    100046: Wheel_3
+    100048: Wheel_4
+    100050: Wheel_Back
+    100052: WheelCarcas
+    100054: WheelCarcas_2
+    100056: WheelCarcas_3
+    400000: Air_motor_left
+    400002: Air_motor_right
+    400004: Body
+    400006: Cone
+    400008: Cone_1
+    400010: Cube
+    400012: Cube_0
+    400014: Cube_1
+    400016: Cube_1_2
+    400018: Cube_1_3
+    400020: Cube_2
+    400022: Cube_2_2
+    400024: Cube_2_3
+    400026: Cube_2_4
+    400028: Cube_3
+    400030: Cylinder_1
+    400032: Cylinder_1_2
+    400034: Cylinder_1_3
+    400036: //RootNode
+    400038: Propeller
+    400040: Wheel
+    400042: Wheel_1
+    400044: Wheel_2
+    400046: Wheel_3
+    400048: Wheel_4
+    400050: Wheel_Back
+    400052: WheelCarcas
+    400054: WheelCarcas_2
+    400056: WheelCarcas_3
+    2100000: Mat.3
+    2100002: Mat.4
+    2100004: Mat.2
+    2100006: No Name
+    2100008: Mat.1
+    2100010: Mat
+    2300000: Cone
+    2300002: Cone_1
+    2300004: Cube
+    2300006: Cube_0
+    2300008: Cube_1
+    2300010: Cube_1_2
+    2300012: Cube_1_3
+    2300014: Cube_2
+    2300016: Cube_2_2
+    2300018: Cube_2_3
+    2300020: Cube_2_4
+    2300022: Cube_3
+    2300024: Cylinder_1
+    2300026: Cylinder_1_2
+    2300028: Cylinder_1_3
+    2300030: Wheel
+    2300032: Wheel_2
+    2300034: Wheel_4
+    2300036: WheelCarcas
+    2300038: WheelCarcas_2
+    2300040: WheelCarcas_3
+    3300000: Cone
+    3300002: Cone_1
+    3300004: Cube
+    3300006: Cube_0
+    3300008: Cube_1
+    3300010: Cube_1_2
+    3300012: Cube_1_3
+    3300014: Cube_2
+    3300016: Cube_2_2
+    3300018: Cube_2_3
+    3300020: Cube_2_4
+    3300022: Cube_3
+    3300024: Cylinder_1
+    3300026: Cylinder_1_2
+    3300028: Cylinder_1_3
+    3300030: Wheel
+    3300032: Wheel_2
+    3300034: Wheel_4
+    3300036: WheelCarcas
+    3300038: WheelCarcas_2
+    3300040: WheelCarcas_3
+    4300000: Cylinder_1
+    4300002: WheelCarcas
+    4300004: Wheel
+    4300006: Cylinder_1_2
+    4300008: WheelCarcas_2
+    4300010: Wheel_2
+    4300012: Cylinder_1_3
+    4300014: WheelCarcas_3
+    4300016: Wheel_4
+    4300018: Cone
+    4300020: Cube_0
+    4300022: Cube_1
+    4300024: Cube_2
+    4300026: Cone_1
+    4300028: Cube_2_2
+    4300030: Cube_1_2
+    4300032: Cube
+    4300034: Cube_2_3
+    4300036: Cube_1_3
+    4300038: Cube_2_4
+    4300040: Cube_3
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
